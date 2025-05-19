@@ -1,0 +1,215 @@
+cDNA Designation,Amino Acid Designation,Gene,Classification,Clinical Significance,Variant Type,Region Start,Region End,Region Display,Codon,RefSeq-Gene Position
+1_6915del,Met1fs,	PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Exon 15,5'(E4F1)-EX15,1,1 to 32647
+1_8015del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Exon 21,5'(RAB26)-EX21,1,1 to 35577
+1_215del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Intron 1,5'-IVS1,1,3500 to 6000
+1-11269del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Exon 39,EX1-EX39,1,5209 to 50690
+1-215del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Exon 1,EX1,1,5210 to 5424
+13_25delGCGCCCGCCCGCC,Ala5fs53X,PKD1,Germline,,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,5,5222
+24_27delCCTG,Arg8fs63X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,,8,5233 to 5236
+63_75delGCTGGCGGGGGGC,Ala21fs47X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,21,5272 to 5284
+74_75delGCinsA,Gly25fs98X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,25,5283
+74delG,Gly25fs48X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,,EX1,25,5283
+99delC,Cys33fs39X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,33,5308
+102_103delGC,102_103delGC,PKD1,Germline,Pathogenic,,Exon 1,Exon 1,EX1,34,5311 to 5312
+108_109insCC,Cys37fs37X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,37,5316
+108_109insC,Cys37fs76X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,37,5317 to 5318
+109delT,Cys37fs36X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,37,5318
+111C>A,Cys37X,PKD1,Germline,Pathogenic,Truncating: Nonsense,Exon 1,Exon 1,EX1,37,5320
+153delC,Cys51fs21X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,51,5362 to 5362
+158_179delGCCGCGGGCTGCGGACGCTCGG,Gly53Valfs13X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,53,5367 to 5388
+165_171delGCTGCGG,Leu56fs15X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,56,5374 to 5380
+216_7489del,Leu72fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Intron 1,Exon 18,IVS1_EX18,72,17000 to 34000
+216-787del,Leu72fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Intron 1,Exon 5,IVS1-EX5,72,19795 to 22693
+216-1G>C,Leu72fs,PKD1,Germline,Pathogenic,Truncating: Splice,Intron 1,Intron 1,IVS1,72,21520
+271_272delTC,er91fs21X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 2,Exon 2,EX2,91,
+272C>A,Ser91X,PKD1,Germline,Pathogenic,Truncating: Nonsense,Exon 2,Exon 2,,91,21577
+288-2A>G,Asp97_Ile120del24,PKD1,Germline,Pathogenic,Truncating: Splice,Intron 2,Intron 2,IVS2,96,21712
+29_46delCGCTGGCCCTGGGCCTGG,Ala10_Leu15del6,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,10,5238
+38T>A,Leu13Gln,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,13,5247
+97_105delTGCGAGCCC,Cys33_Pro35del3,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,33,5306 to 5314
+140G>C,Cys47Ser,PKD1,Germline,Likely Pathogenic,,Exon 1,Exon 1,EX1,47,5349
+152G>C,Cys51Ser,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,51,5361
+153C>G,Cys51Trp,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,51,5362
+155C>T,Ser52Leu,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,52,5364
+215T>A,Leu72Gln,PKD1,Germline,,Nontruncating: Missense,Exon 1,Exon 1,EX1,72,5424
+224C>T,Ser75Phe,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,75,21529
+230A>G,Asn77Ser,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,77,21535
+236T>C,Leu79Pro,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,79,Leu79Pro
+287T>C,Leu96Pro,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,,96,21592
+290A>G,,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 3,Exon 3,EX3,,21716
+296G>T,Ser99Ileu,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 3,Exon 3,EX3,99,21722
+301A>G,Asn101Asp,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 3,Exon 3,EX3,101,21727
+303_305delCAA,Asn101del,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 3,Exon 3,EX3,101,21729
+308T>C,Ile103Thr,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,,Exon 3,EX3,103,21734
+323_325delAAG,Glu108del,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 3,Exon 3,EX3,108,21749
+359T>C,Ile120Thr,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 3,Exon 3,EX3,120,21785
+373A>G,Asn125Asp,PKD1,Germline,Likely Pathogenic,,Exon 4,Exon 4,EX4,125,22067
+385T>C,Cys129Arg,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 4,Exon 4,EX4,129,22079
+417G>T,Trp139Cys,,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 4,Exon 4,EX4,139,22111
+464G>A,Cys155Tyr,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,,Exon 4,EX4,155,22158
+529+5G>A,Gly177fs,PKD1,Germline,Likely Pathogenic,Nontruncating: Splice,Intron 4,Intron 4,IVS4,177,22228
+548G>A,Cys183Tyr,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 5,Exon 5,EX5,183,22455
+29_46delCGCTGGCCCTGGGCCTGG,Ala10_Leu15del6,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,10,5238
+960_980delTGCCTCGCATCGCTATGTGCT,Ala321_Leu327del7,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 5,Exon 5,EX5,320,22867 to 22887
+962_1006del45,Ala321_Ala335del15,PKD1,,Pathogenic,Nontruncating: Deletion/Insertion,Exon 5,Exon 5,EX5,321,22869 to 22913
+2096_2097+23del25,Ser699fs77X,PKD1,Germline,Pathogenic,Nontruncating: Splice,Intron 10,Intron 10,IVS10,699,25544
+3024_3025ins18,Asn1008_Tyr1009ins6,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 13,,EX13,1008,27974 to 27975
+3272_3289delTCATGCACACCTACGCTG,Val1091_Ala1096del6,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 14,Exon 14,EX14,1091,28536 to 28553
+3538_3564delACCTATGCCTCGAGGGGCACCTACCAC,Thr1180_His1188del9,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1180,29270 to 29296
+3624_3645del22insT,Phe1209_Leu1215del7,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1209,29356 to 29377
+4593_4844del252,Asn1531_Glu1614del84,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1531,30325 to 30577
+5080_5103delCATGTGCAGCTGCGGGCCACCAAC,His1694_Asn1701del8,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1694,30812 to 30835
+5969_6016del48,Asn1991_Trp2006del16,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1991,31701 to 31748
+5997_6020del24,Ser2000_Tyr2007del8,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2000,31729 to 31752
+6650_6664delTGCTGCCGCGGCTGG,Val2217_Leu2221del5,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2217,32382
+6656_6657insTCGGCTGGTGCTGCC,Pro2219_Arg2220insArgLeuValLeuPro,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,,2219,32388 to 32389
+6657_6671delGCGGCTGGCGCTGCC,,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2219,32389
+6664_6665insTGCTGCCGCGGCTGG,Leu2221_A2222insValLeuProArgLeu,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2221,32396 to 32397
+7297_7308delCTGCGGCGGGGC,Leu2433_Gly2436del4,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 18,Exon 18,EX18,2433,34309 to 34321
+7303_7317delCGGGGCGTGCTGCGG,Arg2435_Arg2439del5,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 18,Exon 18,EX18,2435,34315
+7321_7322ins12,Asp2440_Gly2441ins4,PKD1,Germline,Pathogenic,,Exon 18,Exon 18,EX18,2440,34333 to 34334
+7540_7541ins12,Leu2514_Arg2515ins4,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 19,Exon 19,EX19,2514,34645 to 34646
+7603_7698del96,Tyr2535_Leu2566del32,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 19,Exon 19,EX19,25335,34708 to 34803
+7859_7863+4delACGAGGTGA,Asn2620fs59X,PKD1,Germline,Pathogenic,Nontruncating: Splice,Exon 20,Intron 20,EX20_IVS20,2620,35030 to 35038
+8017-2_-1delAG,Gly2673fs,PKD1,Germline,,Nontruncating: Splice,Intron 21,Intron 21,IVS21,2673,38577 to 38578
+8284_8295delATCCTCATGCGC,Ile2762_Arg2765delIleLeuMetArg,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 23,Exon 23,EX23,2762,39448 to 39459
+8295_8296insATCCTCATGCGC,Arg2765_Ser2766insIleLeuMetArg,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 23,Exon 23,EX23,2765,39459 to 39460
+38T>A,Leu13Gln,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,13,5247
+97_105delTGCGAGCCC,Cys33_Pro35del3,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,33,5306 to 5314
+140G>C,Cys47Ser,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,47,5349
+152G>C,Cys51Ser,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,51,5361
+153C>G,Cys51Trp,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,51,5362
+155C>T,Ser52Leu,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,52,5364
+215T>A,Leu72Gln,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,72,5424
+224C>T,Ser75Phe,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,75,21529
+230A>G,,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,77,21535
+236T>C,Leu79Pro,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 2,Exon 2,EX2,79,21541
+-2C>T,-1_Met1insMet,PKD1,Germline,Likely Benign,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,5'UTR,1,5208
+82C>T,Arg28Cys,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 1,Exon 1,EX1,28,5291
+107C>A,Pro36His,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 1,Exon 1,EX1,36,5316
+169C>T,Arg57Trp,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 1,Exon 1,EX1,57,5378
+182C>T,Pro61Leu,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 1,Exon 1,EX1,61,5391
+239G>A,Arg80Gln,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 2,Exon 2,EX2,80,21544
+263C>T,Ala88Val,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 2,Exon 2,EX2,88,21568
+274G>A,Ala92Thr,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 2,Exon 2,EX2,92,21579
+313A>T,Thr105Ser,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 3,Exon 3,EX3,105,21739
+333T>G,Phe111Leu,PKD1,Germline,Likely Benign,Nontruncating: Missense,Exon 3,Exon 3,EX3,111,21759
+8C>G,Pro3Arg,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 1,Exon 1,EX1,3,5217
+46_51delGGCCTG,Gly16_Leu17del2,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,16,5255 to 5260
+74G>T,Gly25Val,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 1,Exon 1,EX1,25,5283
+238C>T,Arg80Trp,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 2,Exon 2,EX2,80,21543
+259C>A,Leu87Met,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 2,Exon 2,EX2,87,21564
+266A>C,Asn89Thr,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 2,Exon 2,EX2,89,21571
+87+4A>C,Leu96fs,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Splice,Intron 2,Intron 2,IVS2,96,21596
+400G>C,Ala134Pro,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 4,Exon 4,EX4,134,22094
+634G>A,Ala212Thr,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 5,Exon 5,EX5,212,22541
+674C>T,Ser225Leu,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 5,Exon 5,EX5,225,22581
+*13G>A,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53507
+*15G>A,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53509
+*113A>G,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,,-1,53607
+*237T>C,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53731
+*244C>T,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53738
+*250G>A,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53744
+-117G>T,Silent 5'UTR,PKD1,Germline,Likely Benign,5'-UTR,Exon 1,Exon 1,5'UTR,-1,5093
+-108C>T,Silent 5'UTR,PKD1,Germline,Likely Benign,5'-UTR,Exon 1,Exon 1,5'UTR,,5103
+-76G>C,Silent 5'UTR,PKD1,Germline,Likely Benign,5'-UTR,Exon 1,Exon 1,5'UTR,-1,5134
+-67C>T,Silent 5'UTR,PKD1,Germline,Likely Benign,5'-UTR,Exon 1,Exon 1,5'UTR,-1,5143
+-61T>C,Silent 5'UTR,PKD1,Germline,Likely Benign,5'-UTR,Exon 1,Exon 1,5'UTR,-1,5149
+-52C>T,Silent 5'UTR,PKD1,Germline,Likely Benign,,Exon 1,Exon 1,5'UTR,-1,5158
+11909_11926delGCCCGCGCCGCTTCACTA,Pro3971_Ser3976del6,PKD1,Germline,Pathogenic,,Exon 43,Exon 43,EX43,3970,52243 to 52260
+11988_11989insCTGCTCTTC,Phe3996_Leu3996insLeuLeuPhe,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 43,Exon 43,EX43,3996,52322
+12389_12391delTGG,,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 45,Exon 45,EX45,4130,52881
+12391_12393delGAG,Glu4131del,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 45,Exon 45,EX45,4131,52883 to 52885
+12396_12398delGTT,Leu4132del,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 45,Exon 45,EX45,4132,52888
+12400_12408delCTGCGCAGG,,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 45,Exon 45,EX45,4134,52892
+12409_12420delCTGCGCCTCTGG,Leu4137_Trp4140del4,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 45,Exon 45,EX45,4137,52901 to 52912
+12451_12452insCCCAGTTCCGCC,His4151delinsProGlnPheArg,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4151,53033 to 53034
+12676_12693delTTTGACCGACTCAACCAG,Phe4226_Gln4231del6,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4226,53258 to 53275
+12861_12862ins39,Pro4287_Ser4287insThrGlnGlyProLeuArgAlaLysAsnLysValHisPro,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4287,53443 to 53444
+-2C>T,-1_Met1insMet,PKD1,Germline,Likely Benign,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,1,5208
+8681_8689delCCAACTCCG,Ala2894_Ser2896del3,PKD1,Germline,Likely Benign,,Exon 23,Exon 23,EX23,2894,39845 to 39853
+46_51delGGCCTG,Gly16_Leu17del2,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,16,5255 to 5260
+1273_1275delGAG,Glu425del,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 6,Exon 6,,425,23298 to 23300
+4828_4830delATC,Ile1610del,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1610,30560 to 30562
+7656delC,Val2553fs67X,PKD1,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 19,Exon 19,EX19,2553,34761
+7455delC,His2485fs133X,PKD1,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 18,,EX18,2485,34467
+6696_6699delTGTC,Phe2232fs8X,PKD1,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2232,32428 to 32431
+5758delC,,PKD1,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1920,31490
+5124delC,Ala1708fs13X,PKD1,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1708,30856 to 30856
+9924-3C>G,Likely Silent,PKD1,Germline,Likely Pathogenic,IVS Silent,Intron 29,Intron 29,IVS29,3308,43448
+216-79C>T,Likely Silent,PKD1,Germline,Likely Benign,IVS Silent,Intron 1,Intron 1,IVS1,72,21442
+10500_3'UTRdel,Leu3500fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 35,Exon 46,EX35-EX46,3500,49011 to 53496
+7210_8015del*,Arg2404fs*,PKD1,Germline,Pathogenic,,Exon 18,Exon 21,EX18-EX21,2404,34223 to 35577
+9397+1G>A,Ser3238fs,PKD1,Germline,Pathogenic,Truncating: Splice,Intron 26,Intron 26,,3133,41161
+8C>G,Pro3Arg,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 1,Exon 1,EX1,3,5217
+2730C>T,Asp910Asp,PKD1,Germline,Likely Benign,Synonymous,,Exon 11,EX11,910,26606
+1290_1291delGCinsTT,Gln431X,PKD1,Somatic,Pathogenic,Nontruncating: Deletion/Insertion,Exon 6,Exon 6,EX6,431,23315
+8934_8942delCTTCATTTC,Phe2979_Ser2981del,PKD1,Somatic,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 24,Exon 24,EX24,2979,40393 to 40401
+8733_8748delGGACAGCAGCAACCCT,Leu2911fs77X,PKD1,Somatic,Pathogenic,Truncating: Deletion/Insertion,Exon 23,Exon 23,EX23,2911,39897
+12488_12489delCT,Ser4163fs45X,PKD1,Somatic,Pathogenic,Truncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4163,53070
+12554_12555insGC,Ser4185fs,PKD1,Somatic,Pathogenic,Truncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4185,53136
+LOH,1-4303del,PKD1,Somatic,Pathogenic,Truncating: Large Rearrangement,Exon 1,,EX1,1,5210 to 53494
+8900C>G,Ser2967X,PKD1,Somatic,Pathogenic,Truncating: Nonsense,Exon 24,Exon 24,EX24,2967,40359
+10050+2_+22del20,3350fs,PKD1,Somatic,Pathogenic,Nontruncating: Splice,Intron 30,Intron 30,IVS30,3350,43579 to 43598
+8558T>C,Phe2853Ser,PKD1,Somatic,Likely Pathogenic,Nontruncating: Missense,Exon 23,Exon 23,EX23,2853,39723
+1131_1133delTAG,Ser378del,PKD2,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 5,Exon 5,EX5,378,40602 to 40604
+1813_1815delTTC,Phe605del,PKD2,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 8,,EX8,605,53515 to 53517
+2632_2634delAGG,Arg878del,PKD2,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 14,Exon 14,EX14,878,72254
+1369_1370insGTGGTGTGATTCCATCTTGCAAT,Gln456_Phe457insCysGlyValIsoProSerTrpGln,PKD2,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 6,Exon 6,EX6,456,44029 to 44030
+2182_2183delAG,Ser728fs10X,PKD2,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 11,Exon 11,EX11,728,62770 to 62771
+306_307insGAG,Glu102_Val103insGlu,PKD2,Germline,Variant of Uncertain Significance (VUS),,Exon 1,Exon 1,EX1,102,5372 to 5373
+307_308insAGG,Glu102_Val103insGlu,PKD2,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,103,5373 to 5374
+2208_2213delAAACTT,Leu736_Asn737del2,PKD2,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 11,Exon 11,EX11,736,62796 to 62801
+128delC,Pro43fs73X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,43,5194
+199_200insGACC,Pro67fs26X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,67,5265 to 5266
+307delG,,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 1,Exon 1,,103,5373
+718_719insTACG,Tyr239fs31X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 3,Exon 3,EX3,239,33562 to 33563
+1194_1195delAA,Thr398fs9X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 5,Exon 5,EX5,398,40665
+2584_2585delGC,Ala862fs29X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,,Exon 14,EX14,862,72206
+596-16C>T,Likely Silent,PKD2,Germline,Likely Benign,IVS Silent,Intron 1,Intron 1,IVS1,199,16775
+844-22G>A,Likely Silent,PKD2,Germline,Likely Benign,IVS Silent,Intron 3,Intron 3,IVS3,282,35562
+1549-20A>G,Likely Silent,PKD2,Germline,Likely Benign,IVS Silent,Intron 6,Intron 6,IVS6,517,49304
+1_2670del,Met1fs*,PKD2,Germline,Pathogenic,Truncating: Large Rearrangement,,Exon 13,,1,5000 to 65394
+710_843dup*,Leu237fs*,PKD2,Germline,Pathogenic,,Intron 2,Intron 3,IVS2_IVS3,282,21000 to 22000
+710del80kb*,Leu237fs,PKD2,Germline,Pathogenic,Truncating: Large Rearrangement,Intron 2,Exon 15,IVS2-3'(ABCG2),237,25000 to 105000
+2407C>T,,PKD2,Germline,Pathogenic,Truncating: Nonsense,Exon 13,Exon 13,,803,65279
+1213C>T,Gln405X,PKD2,Germline,Pathogenic,Truncating: Nonsense,Exon 5,Exon 5,EX5,405,40684
+710-2A>G,Leu237fs,PKD2,Germline,Pathogenic,Truncating: Splice,Intron 2,Intron 2,IVS2,236,33551
+2241-1G>T,Gly747fs,PKD2,Germline,Pathogenic,Truncating: Splice,Intron 11,Intron 11,IVS11,747,63094
+596-12_599delATTATTTTAGGTCT,Gly199fs,PKD2,Germline,Pathogenic,Nontruncating: Splice,Intron 1,Exon 2,IVS1-EX2,199,16779 to 16795
+2020-2delA,Asn674fs,PKD2,Germline,Pathogenic,Nontruncating: Splice,Intron 9,Intron 9,IVS9,674,59237
+843+3A>G,Phe282fs,PKD2,Germline,Likely Pathogenic,Nontruncating: Splice,Intron 3,Intron 3,IVS3,282,33689
+1555G>A,Val519Met,PKD2,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Missense,,Exon 7,EX7,519,49330
+2T>A,Met1Lys,PKD2,,Variant of Uncertain Significance (VUS),Nontruncating: Missense,Exon 1,Exon 1,EX1,1,5068
+568G>A,Ala190Thr,PKD2,Germline,Likely Benign,Nontruncating: Missense,Exon 1,Exon 1,EX1,190,5634
+1546G>T,Val516Leu,PKD2,Germline,Likely Benign,,Exon 6,,EX6,516,44201
+992G>C,Cys331Ser,PKD2,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 4,Exon 4,EX4,331,35732
+1045T>C,Ser349Pro,PKD2,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 4,Exon 4,EX4,349,35785
+978C>G,,PKD2,Germline,Likely Benign,Synonymous,Exon 4,Exon 4,EX4,326,35718
+2124C>T,Tyr708Tyr,PKD2,Germline,Likely Benign,Synonymous,Exon 11,Exon 11,EX11,708,62712
+LOH,Met1_Val968del,PKD2,Somatic,Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,1,5000 to 73027
+2050_2052delTAC,Tyr684del,PKD2,Somatic,Likely Pathogenic,,Exon 10,Exon 10,EX10,684,59269
+1434_1466delTAT,Ile479del,PKD2,Somatic,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 6,Exon 6,EX6,479,44089
+934_935insG,Glu312fs28X,PKD2,Somatic,Pathogenic,Truncating: Deletion/Insertion,Exon 4,Exon 4,EX4,312,
+1450delA,Ile484fs19X,PKD2,Somatic,Pathogenic,Truncating: Deletion/Insertion,,Exon 6,EX6,484,44105
+979A>T,Arg327X,PKD2,Somatic,Pathogenic,Truncating: Nonsense,Exon 4,Exon 4,EX4,327,35719
+2207delT,Leu736X,PKD2,Somatic,Pathogenic,Truncating: Nonsense,Exon 11,Exon 11,EX11,736,62795
+1899-2A>G,Ile633fs,PKD2,,Pathogenic,Truncating: Splice,Intron 8,Intron 8,IVS8,633,55314
+2020-2_-1delAG,Asn674fs,PKD2,Somatic,Pathogenic,Nontruncating: Splice,Intron 9,Intron 9,IVS9,673,59237 to 59238
+1094+1G>A,Ala365fs,PKD2,Somatic,Pathogenic, Truncating: Splice,Intron 4,,,366,35835
+1548+5G>A,Val516fs,PKD2,Somatic,Pathogenic,Nontruncating: Splice,Intron 6,Intron 6, IVS6,516,44208
+4828_4830delATC,Ile1610del,PKD1,Germline,Variant of Uncertain Significance (VUS),Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,1610,30560 to 30562
+596-16C>T,Likely Silent,PKD2,Germline,Likely Benign,IVS Silent,Intron 1,Intron 1,IVS1,199,16775
+6656_6657insTCGGCTGGTGCTGCC,,PKD1,Germline,Pathogenic,Nontruncating: Deletion/Insertion,Exon 15,Exon 15,EX15,2219,
+140G>C,Cys47Ser,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,47,5349
+2124C>T,Tyr708Tyr,PKD2,Germline,Likely Benign,Synonymous,Exon 11,Exon 11,EX11,708,62712
+1_215del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Intron 1,5'-IVS1,1,3500 to 6000
+*250G>A,Silent 3'UTR,PKD1,Germline,Likely Benign,,Exon 46,Exon 46,3'UTR,-1,53744
+1-215del,Met1fs,PKD1,Germline,Pathogenic,Truncating: Large Rearrangement,Exon 1,Exon 1,EX1,1,5210 to 5424
+99delC,Cys33fs39X,PKD1,Germline,Pathogenic,	Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,33,5308
+2096_2097+23del25,Ser699fs77X,PKD1,Germline,Pathogenic,Nontruncating: Splice,Intron 10,Intron 10,IVS10,699,25544
+38T>A,Leu13Gln,PKD1,Germline,Likely Pathogenic,Nontruncating: Missense,Exon 1,Exon 1,EX1,13,5247
+128delC,Pro43fs73X,PKD2,Germline,Pathogenic,Truncating: Deletion/Insertion,Exon 1,Exon 1,EX1,43,5194
+12861_12862ins39,Pro4287_Ser4287insThrGlnGlyProLeuArgAlaLysAsnLysValHisPro,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 46,Exon 46,EX46,4287,53443 to 53444
+*13G>A,Silent 3'UTR,PKD1,Germline,Likely Benign,3'-UTR,Exon 46,Exon 46,3'UTR,-1,53507
+97_105delTGCGAGCCC,Cys33_Pro35del3,PKD1,Germline,Likely Pathogenic,Nontruncating: Deletion/Insertion,Exon 1,Exon 1,EX1,33,5306 to 5314
